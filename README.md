@@ -1,4 +1,4 @@
-# Phishing-Analysis
+#Phishing Threat Analysis & MITRE ATT&CK Mapping
 
 ## Overview
 This project simulates a real-world SOC triage workflow by investigating live phishing URLs, 
